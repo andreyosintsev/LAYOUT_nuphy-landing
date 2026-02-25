@@ -42,8 +42,18 @@
     width: 100%;
 }
 
-@media (max-width: 991px) {
+.tiles-images__cell_one-third {
+    width: 50%;
+}
+
+@media screen and (max-width: 991px) {
     .tiles-images__cell {
         height: 180px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .tiles-images__cell_one-third {
+        width: 100%;
     }
 }

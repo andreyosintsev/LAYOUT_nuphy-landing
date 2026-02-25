@@ -5,6 +5,10 @@
     height: auto;
 }
 
+.video_fullwidth {
+    max-width: 100%;
+}
+
 .video__player {
     display: block;
     width: 100%;

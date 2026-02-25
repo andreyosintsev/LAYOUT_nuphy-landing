@@ -3,7 +3,6 @@
     $from       = 'info@nuphy-russia.ru';
     $to         = 'info@foxgamer.ru';
 
-
     $name       = $_POST['name'];
     $tel        = $_POST['tel'];
     $email      = $_POST['email'];
